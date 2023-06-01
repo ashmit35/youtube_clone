@@ -1,0 +1,16 @@
+npx create-react-app ./
+npm install --legacy-peer-deps     ///to install the dependencies
+
+//see the dependecy section in package.json file
+
+//Create SRC folder
+1. Create index.js file
+2. Create App.js file ......this is the starting point file of the react application
+
+3. Go to public folder and then index.html and remove the comments and you will see the root element
+4. Go to material ui website and click on get started
+5. Go to installation and copy the two link rels and add it in index.html file
+6. In the index.js file inside the components folder... export all the routes using the export default property
+
+7. import the above in App.js file
+8. use RAPID API to use youtube API
