@@ -31,9 +31,10 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 export const logo = 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png'
+
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
+export const demoChannelUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
+export const demoVideoUrl = '/video/_UKiryAvgw4';
+export const demoChannelTitle = 'Demo titlw';
 export const demoVideoTitle = 'The title is loading...';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoProfilePicture = 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png'
